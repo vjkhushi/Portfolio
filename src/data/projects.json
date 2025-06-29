@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "This project showcases my ability to build real-world applications using modern frontend tools while managing data, UI state, and user interactions effectively.",
+    "skills": ["React", "TailwindCSS", "Node"],
+    "demo": "https://vercel.com/khushi-vijays-projects/employee-manager-app/9T2i7eMuZtdZytDBRNC4ZThqE9hT",
+    "source": "https://github.com/vjkhushi/employee-manager-app"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "Clone of thisismagma.com. This project helped sharpen my frontend skills and attention to design details while working without frameworks",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://vercel.com/khushi-vijays-projects/thisismagma",
+    "source": "https://github.com/vjkhushi/thisismagma"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "A fully responsive clone website built using HTML, CSS, and JavaScript, replicating the design and functionality of a modern, real-world brand or service. ",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://vercel.com/khushi-vijays-projects/sidcup-family-golf",
+    "source": "https://github.com/vjkhushi/sidcup-family-golf"
+  }
+]

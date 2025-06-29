@@ -1,0 +1,29 @@
+[
+  {
+    "role": "SMO",
+    "organisation": "Flying Minds",
+    "startDate": "Sep 2023",
+    "endDate": "Dec 2023",
+    "experiences": ["Optimized social media content", "Collaborated with designers"],
+    "imageSrc": "history/instagram.png"
+  },
+  {
+    "role": "Key Account Manager",
+    "organisation": "",
+    "startDate": "Aug, 2021",
+    "endDate": "May, 2025",
+    "experiences": ["Worked on Tally Prime", "Interest in tech-driven solutions led to frontend"],
+    "imageSrc": "history/tally.png"
+  },
+  {
+    "role": "FrontEnd Developer",
+    "organisation": "",
+    "startDate": "Apr, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Work on component libraries",
+      "Help create UI components"
+    ],
+    "imageSrc": "history/OIP.jpg"
+  }
+]
